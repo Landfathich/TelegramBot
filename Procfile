@@ -1,0 +1,1 @@
+worker: uv run --frozen --no-sync python bot.py
